@@ -15,5 +15,8 @@
 			"Name": "DaySequence",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
